@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Date": "2020-05-12T00:00:00",
+    "BookOutCount": 9,
+    "BookInCount": 5,
+    "Name": "Monday",
+    "Address": "USA"
+  },
+  {
+    "Date": "2020-04-14T00:00:00",
+    "BookOutCount": 9,
+    "BookInCount": 6,
+    "Name": "Harry",
+    "Address": "USA"
+  },
+  {
+    "Date": "2020-05-08T00:00:00",
+    "BookOutCount": 12,
+    "BookInCount": 20,
+    "Name": "Sunday",
+    "Address": "USA"
+  }
+]
